@@ -1,5 +1,5 @@
-<h1>pap2023v2</h1>
-***GAFFFE — Graph Algorithms: Ford & Friend For the Exam***
+<h1>GAFFFE — Graph Algorithms: Ford & Friend For the Exam</h1>
+
 **Programmazione Avanzata e Parallela 2023, 2° tentativo.<br> Progetto di Programmazione Avanzata e Parallela, UniTS, AIDA, 2023: realizzazione di una classe template per la creazione di grafi ed implementazione degli algoritmi di ottimizzazione per la ricerca del percorso di costo minimo "Dijkstra" e "Bellman-Ford".**
 
 *Autori: Leo Peinkhofer, Lorenzo Di Bernardo*
